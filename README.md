@@ -4,7 +4,6 @@
 
 ![Intro Image](https://images.unsplash.com/photo-1594909122845-11baa439b7bf?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D/image.jpg)
 
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
 
 ## Project Overview
 
@@ -15,7 +14,7 @@ Microsoft wants to enter the movie industry, and they want to create a movie stu
 <div style="display: flex; justify-content: space-between;">
     <img src="https://images.unsplash.com/photo-1440404653325-ab127d49abc1?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bW92aWUlMjBzdHVkaW98ZW58MHx8MHx8fDA%3D" style="width: 30%;">
     <img src="https://media.istockphoto.com/id/182054162/photo/comedy-tragedy.webp?b=1&s=170667a&w=0&k=20&c=kAr-S-qdoTj7m00ofb7ysyJoT6ZC4OsXGttc0oynoRY=" style="width: 30%;">
-    <img src="https://images.unsplash.com/photo-1616530940355-351fabd9524b?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW92aWVzfGVufDB8fDB8fHww" style="width: 30%;">
+   
 </div>
 
 The business's pain points include: lack of experience or knowledege in the movie industry and competition when it comes to other movie studios. The data analysis questions entailed: What were the top most genres that people prefered, when it comes to investment, the kind of money that was used and if there were any profits, the movie ratings and reviews. These questions are important from a business perspective because it helps one to make an informed decision when entering the movie industry.
@@ -39,7 +38,7 @@ Data Modelling
 
  </div> 
 
-Bsed on the analysis of the movie industry data, the following are some of the recommendations, limitations and steps to do when moving forward.
+Based on the analysis of the movie industry data, the following are some of the recommendations, limitations and steps to do when moving forward.
 
 ### Recommendations:
 Invest in High Performing genres- People have various preferences when it comes to movies. Based on the data analysis on genres, from the average rating, to the number of votes, to the value counts and the runtime minutes, we can see the top genres. Microsoft should therefore be keen to investing in the top genres.
